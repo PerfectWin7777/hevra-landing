@@ -1,7 +1,7 @@
-# 🧠 MindForge - L'Écosystème Intelligent pour l'Enseignement au Cameroun
+# 🧠 HEVRA - L'Écosystème Intelligent pour l'Enseignement au Cameroun
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PerfectWin7777/mindforge-landing/main/assets/images/mindforge_banner.png" alt="MindForge Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/PerfectWin7777/HEVRA-landing/main/assets/images/HEVRA_banner.png" alt="HEVRA Banner" width="100%">
   <!-- Note: Une fois que vous aurez un logo ou une bannière, mettez le bon lien ici -->
   <br>
   <strong>Innovation. Collaboration. Pédagogie.</strong>
@@ -9,9 +9,9 @@
 
 ---
 
-MindForge est une application mobile innovante conçue pour révolutionner le quotidien des enseignants au Cameroun. Elle fusionne un outil de productivité avancé (génération d'épreuves par IA) avec une plateforme sociale et une bibliothèque collaborative de ressources.
+HEVRA est une application mobile innovante conçue pour révolutionner le quotidien des enseignants au Cameroun. Elle fusionne un outil de productivité avancé (génération d'épreuves par IA) avec une plateforme sociale et une bibliothèque collaborative de ressources.
 
-🔗 **Site Vitrine :** [https://perfectwin7777.github.io/mindforge-landing/](https://perfectwin7777.github.io/mindforge-landing/)
+🔗 **Site Vitrine :** [https://perfectwin7777.github.io/HEVRA-landing/](https://perfectwin7777.github.io/HEVRA-landing/)
 
 ---
 
@@ -39,7 +39,7 @@ Un espace centralisé pour partager et découvrir des ressources.
 
 ## 🏗️ Architecture Technique
 
-MindForge repose sur une architecture moderne et découplée, conçue pour la performance et la scalabilité.
+HEVRA repose sur une architecture moderne et découplée, conçue pour la performance et la scalabilité.
 
 <div align="center">
   <!-- Placeholder pour un schéma d'architecture si vous en avez un jour -->
@@ -99,7 +99,7 @@ Un espace centralisé pour partager et découvrir des ressources.
 
 ## 🏗️ Architecture Technique
 
-MindForge repose sur une architecture moderne et découplée, conçue pour la performance et la scalabilité.
+HEVRA repose sur une architecture moderne et découplée, conçue pour la performance et la scalabilité.
 
 <div align="center">
   <!-- Placeholder pour un schéma d'architecture si vous en avez un jour -->
